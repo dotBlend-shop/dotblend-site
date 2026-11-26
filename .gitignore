@@ -1,2 +1,6 @@
 SETUP.md
 build_posts.py
+auto_publish.py
+logs/
+__pycache__/
+PENDING_CHANGES.diff
